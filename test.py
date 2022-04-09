@@ -1,4 +1,4 @@
 
 while True:
-    text = input("This file is very dangerous! |> ")
+    text = input(":) ")
     print(text)
